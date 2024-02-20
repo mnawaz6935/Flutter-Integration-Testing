@@ -20,7 +20,7 @@ Flutter Integration Testing allows you to test your Flutter app as a whole by si
 
 ## Prerequisites
 
-- Flutter SDK installed ([Installation Guide](https://flutter.dev/docs/get-started/install))
+- Flutter SDK installed(Latest) ([Installation Guide](https://flutter.dev/docs/get-started/install))
 - A physical device or emulator configured
 - `flutter_driver` or `integration_test` package
 
